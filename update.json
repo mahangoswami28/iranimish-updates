@@ -2,5 +2,5 @@
   "versionCode": 4,
   "versionName": "1.1.2",
   "apkUrl": "https://github.com/mahangoswami28/iranimish-updates/releases/download/v1.1.2/app-release.apk",
-  "notes": "• श्लोक व चौपाई के लिए Kindle बुक मोड और बड़ा फ़ॉन्ट\n• कैलेंडर में Dual-Mode (मासिक ग्रिड + बड़े अक्षर)\n• पंचांग कार्ड सिंक और सेटिंग्स में अपडेट बटन"
+  "notes": "• Improved Shlok and Chaupai readability with larger fonts\n• Added Large Text view mode in Calendar\n• Fixed Panchang card alignment and header Calendar button\n• Simplified language settings and added Check for Update option"
 }
