@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "apkUrl": "https://github.com/mahangoswami28/iranimish-updates/releases/download/v1.1.2/app-release.apk",
-  "notes": "• Improved Shlok and Chaupai readability with larger fonts\n• Added Large Text view mode in Calendar\n• Fixed Panchang card alignment and header Calendar button\n• Simplified language settings and added Check for Update option"
+  "versionCode": 5,
+  "versionName": "1.1.3",
+  "apkUrl": "https://github.com/mahangoswami28/iranimish-updates/releases/download/v1.1.3/app-release.apk",
+  "notes": "Bug Fixes and other improvements"
 }
